@@ -1,20 +1,27 @@
 # Pandhi Khan – Data Analyst
 
-Welcome to my GitHub repository! I am Pandhi Khan, a dedicated Data Analyst with extensive experience in managing database infrastructure, analyzing complex datasets, and creating insightful reports. My expertise spans across various tools and technologies, and I am passionate about leveraging data to drive informed decision-making.
+I am Pandhi Khan, a dedicated Data Analyst with extensive experience in managing database infrastructure, analyzing complex datasets, and creating insightful reports. My expertise spans across various tools and technologies, and I am passionate about leveraging data to drive informed decision-making.
+
+--- 
 
 ## Skills
 
-- **Python:** 
-  - Proficient in data manipulation with Pandas, data visualization using Matplotlib and Seaborn, and implementing machine learning models with Scikit-Learn. Experienced in web scraping, API interaction, and environment management with Virtualenv and Conda.
+- **Python:** Python Fundamentals | Data Manipulation and Analysis | Data Visualization | Data Storage and Retrieval | Pandas | NumPy | Artificial Intelligence and Machine Learning | Deep Learning | Web Frameworks | Front-end Technologies |
 
-- **SQL:** 
-  - Expertise in database design, normalization, query optimization, and advanced SQL queries. Proficient in managing DDL, DML, DCL, and TCL operations, as well as creating and managing views, triggers, and stored procedures.
+--- 
 
-- **Power BI:** 
-  - Skilled in data modeling, DAX, Power Query, and creating dynamic reports and dashboards. Experienced in data transformation, integration, and implementing row-level security for optimal data management.
+- **SQL:**  SQL Fundamentals | Data Modeling | Query Optimization | Advanced Queries | Database Management | View Management | Trigger Management | Stored Procedure Management | Cloud and Local Deployment | SQL Variations | Database Security |
 
-- **Microsoft Excel:** 
-  - Advanced proficiency in Excel, including pivot tables, complex formulas, data validation, Power Query, Power Pivot, and VBA. Experienced in creating interactive dashboards and performing scenario analysis.
+--- 
+
+- **Power BI:** Power BI Development | Data Analysis | Visualization Best Practices | DAX Expertise | Data Integration | Report Design | Dashboard Creation | Security and Sharing |
+
+--- 
+
+- **Microsoft Excel:**  Formulas and Functions | Data Analysis | PivotTables | Charts and Visualization | Conditional Formatting | VLOOKUP and INDEX-MATCH | Excel Macros | Data Validation | Budgeting and Forecasting | Financial Modeling | Data Management | Excel Shortcuts | Excel Add-ins | Power Query | Power Pivot |
+
+
+--- 
 
 ## Professional Experience
 
@@ -22,29 +29,39 @@ Welcome to my GitHub repository! I am Pandhi Khan, a dedicated Data Analyst with
 **Laar Humanitarian and Development Programme (LHDP)**  
 *October 2022 – July 2024*
 
-- Managed the organization’s database infrastructure, ensuring data integrity and security.
-- Leveraged Python, SQL, and Excel to perform comprehensive data analysis and develop insightful MIS reports using Power BI.
-- Conducted user training to enhance data literacy within the organization.
+### Roles and Responsibilities: 
 
-[Experience Certificate Document](#)
+Data Collection | Data Cleaning | Data Analysis | Data Visualization | Insight Generation | Reporting | Stakeholder Communication | Business Recommendations | Data Storytelling | Data Quality Assurance | Process Improvement | Data Governance | Ad-hoc Analysis | Special Projects |
+
+
+--- 
+
 
 ### Head Teacher  
 **Village Shadabad Organization (VSO)**  
 *September 2021 – June 2022*
 
-- Led and managed academic and administrative functions, ensuring effective school governance.
-- Conducted training sessions for staff, focusing on leadership and school management.
+### Roles and Responsibilities: 
 
-[Experience Certificate Document](#)
+Strategic Leadership | Academic Oversight | Teacher Management | Student Affairs | Parent Communication | Budgeting and Finance | School Operations | Curriculum Development | Policy Implementation | Community Engagement | Public Relations | Fundraising and Development | Accreditation and Compliance |
+
+
+
+--- 
+
+
 
 ### Monitoring & Evaluation Officer  
 **Johi Organization for Rural Development and Natural Disasters (JORDAN)**  
 *August 2019 – August 2021*
 
-- Monitored and evaluated program effectiveness, ensuring alignment with organizational goals.
-- Developed comprehensive reports to track progress and inform stakeholders.
+### Roles and Responsibilities: 
 
-[Experience Certificate Document](#)
+Data Management | Program Assessment | Reporting and Learning | Stakeholder Engagement | M&E System Development | Performance Monitoring | Impact Evaluation | Continuous Improvement |
+
+
+--- 
+
 
 ## Training and Certification
 
@@ -52,24 +69,36 @@ Welcome to my GitHub repository! I am Pandhi Khan, a dedicated Data Analyst with
   *December 2023*  
   Conducted by USAID/ BHA & Facilitated by Concern Worldwide.  
   Focus: Financial Management, HR & Procurement Policies, Logistics & Basic Security Management.  
-  [Certificate Document](#)
 
+
+--- 
+
+ 
 - **Head Teachers’ Training**  
   *April 2022*  
   Conducted by Sindh Education Foundation (SEF), Govt. of Sindh.  
   Focus: Effective Leadership, School Governance, Administrative & Academic Management.  
-  [Certificate Document](#)
+
+
+--- 
+
 
 - **Workshop on Effective Humanitarian Response/ Program**  
   *February 2022*  
   Conducted by USAID/ BHA & Facilitated by Concern Worldwide.  
   Focus: Proposal Development, Need Assessment, & Monitoring & Evaluation.  
-  [Certificate Document](#)
+
+
+--- 
+
 
 - **English Language Course**  
   *June 2015 – August 2015*  
-  Sindh Board Of Technical Education.  
-  [Certificate Document](#)
+  Sindh Board Of Technical Education.
+
+
+--- 
+
 
 ## Education
 
@@ -77,9 +106,16 @@ Welcome to my GitHub repository! I am Pandhi Khan, a dedicated Data Analyst with
   University of Sindh, Jamshoro  
   *2024*
 
+
+--- 
+
+  
 ## Hobbies
 
 - Coding | Programming | Web Scraping | Data Visualization | Machine Learning | Reading | Writing | Blogging | Learning New Tools | Data Science
+
+
+--- 
 
 ## Contact Information
 
@@ -88,3 +124,6 @@ Welcome to my GitHub repository! I am Pandhi Khan, a dedicated Data Analyst with
 - **LinkedIn:** [Pandhi Khan](https://www.linkedin.com/in/pandhi-khan-9094b7289)  
 - **GitHub:** [Pandhi-Khan](https://github.com/Pandhi-Khan)  
 - **Location:** Dadu, Sindh, Pakistan
+
+
+--- 
