@@ -6,7 +6,7 @@ I am Pandhi Khan, a dedicated Data Analyst with extensive experience in managing
 
 ## Skills
 
-- **Python:** Python Fundamentals | Data Manipulation and Analysis | Data Visualization | Data Storage and Retrieval | Pandas | NumPy | Artificial Intelligence and Machine Learning | Deep Learning | Web Frameworks | Front-end Technologies |
+- **Python:**  Started Learning
 
 --- 
 
@@ -112,7 +112,7 @@ Data Management | Program Assessment | Reporting and Learning | Stakeholder Enga
   
 ## Hobbies
 
-- Coding | Programming | Web Scraping | Data Visualization | Machine Learning | Reading | Writing | Blogging | Learning New Tools | Data Science
+Reading | Writing | Blogging | Learning New Tools |
 
 
 --- 
