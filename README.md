@@ -98,10 +98,13 @@ Core objectives: Proposal Development, Need Assessment, Monitoring & Evaluation
 
 ## **Hobbies**  
 
-> - **Reading | Writing | Blogging | Learning New Tools**  
+> - _Reading | Writing | Blogging | Learning New Tools_ 
 
+<br>
+<br>
+<br>
 
-## For Further Information, Please Visit:
+## **For Further Information, Please Visit:**
 
 <a href="http://www.linkedin.com/in/pandhi-khan-9094b7289">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;">
